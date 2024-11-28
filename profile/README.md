@@ -5,6 +5,6 @@ Welcome to the code side of PacketSense! Nice things are created here to tame yo
 PacketSense is envisioned to be a modern self-hosted Firewall and Network Management Ecosystem.
 It consists of multiple parts: a set of applications and OS images designed to work together.
 
-* 👁️: Learn your way around this project at [Overview](https://github.com/packetsense/.github/docs/whatiswhere.md).
+* 👁️: Learn your way around this project at [Overview](https://packetsense.github.io/docs/whatiswhere).
 * :octocat: Look below for all the repositories!
 
